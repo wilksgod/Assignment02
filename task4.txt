@@ -1,0 +1,4 @@
+I feel like the command line is faster because to use the git workflow in atom it needs to be code
+or a text file. So i feel like it was much easier to just the command line to commit and push my work.
+In the future I will most likely use the command line since it is faster even if it is a 
+bit more complicated.
