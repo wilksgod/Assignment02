@@ -3,5 +3,6 @@ In this letter Bill Gates expresses his dismay towards the piracy of his softwar
 making enought money for the software he was writting.
 
 2. What did Richard Stallman describe as an ethical dilemma?
-
+the open source software 
 3. What are the freedoms that enable people to form a community?
+The freedom to buy whatever we please, freedom to think, freedom to act
